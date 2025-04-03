@@ -42,4 +42,7 @@ Develop and justify five actionable strategies to improve customer retention bas
 ✔ Justification of proposed initiatives <br/>
 ✔ Alignment with churn reasons & customer segmentation <br/>
 ✔ Potential effectiveness of the retention strategy <br/>
-✔ Professional presentation of results
+✔ Professional presentation of results <br/>
+
+ 📄 For the full analysis & detailed recommendations, check the report:  
+👉 [Download the PDF Report]("Retention Strategy & Recommendations.pdf")
