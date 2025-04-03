@@ -44,7 +44,7 @@ Develop and justify five actionable strategies to improve customer retention bas
 ✔ Potential effectiveness of the retention strategy <br/>
 ✔ Professional presentation of results <br/>
 
-![Customer Journey Map](images/customer_journey_map.png)
+![Customer Journey Map](https://github.com/Gunelhasan/Customer-Retention-SaaS/blob/main/crm.png)
 
 📄 For the full analysis & detailed recommendations, check the report:  
 👉 [Download the PDF Report](Retention%20Strategy%20&%20Recommendations.pdf)
